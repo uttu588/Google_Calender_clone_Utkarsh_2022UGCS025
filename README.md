@@ -47,17 +47,20 @@ This project replicates the look and feel of Google Calendar with clean UI compo
 ├── package-lock.json
 └── webpack.config.js
 
+<img width="1912" height="991" alt="image" src="https://github.com/user-attachments/assets/4ad5bd97-de88-4e3e-871f-06d577d036ec" />
+
+
 # ▶️ How to Run the Project Locally
 
 Follow these exact steps to run the Google Calendar Clone on your system:
 
 ---
 
-## 1️⃣ Clone the Repository
+## Clone the Repository
 
 ```bash
-git clone https://github.com/uttu5880/Google_Calender_clone_Utkarsh_2023UCS025.git
-cd Google_Calender_clone_Utkarsh_2023UCS025
+  ## 1. git clone https://github.com/uttu5880/Google_Calender_clone_Utkarsh_2023UCS025.git
+    cd Google_Calender_clone_Utkarsh_2023UCS025
 
  ## 2 Install Dependencies
  npm install
@@ -66,7 +69,7 @@ cd Google_Calender_clone_Utkarsh_2023UCS025
  npm run dev
 
 
-<img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/6ebc5166-ad09-4926-b544-8bdf8cc3914d" />
+
 
 
 🔮 Future Improvements
