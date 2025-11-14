@@ -65,6 +65,10 @@ cd Google_Calender_clone_Utkarsh_2023UCS025
  ## 3 Start the Development Server
  npm run dev
 
+
+<img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/6ebc5166-ad09-4926-b544-8bdf8cc3914d" />
+
+
 🔮 Future Improvements
 
 Add event creation modal
