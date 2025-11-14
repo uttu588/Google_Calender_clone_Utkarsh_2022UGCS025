@@ -47,6 +47,8 @@ This project replicates the look and feel of Google Calendar with clean UI compo
 ├── package-lock.json
 └── webpack.config.js
 
+ ### THIS IMAGE SHOWS THAT I HAD CREATED A SCHEDULE OF GOOGLE CALENDER TO UPLOAD THE Assignment – Software Engineering Internship || Scaler
+ 
 <img width="1912" height="991" alt="image" src="https://github.com/user-attachments/assets/4ad5bd97-de88-4e3e-871f-06d577d036ec" />
 
 
