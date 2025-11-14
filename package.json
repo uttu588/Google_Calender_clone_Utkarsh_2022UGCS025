@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "zero dependency clone of google calendar written in vanilla javascript",
   "scripts": {
+    
     "test": "echo \"Error: no test specified\" && exit 1",
     "analyze2": "webpack --profile --json > stats.json && webpack-bundle-analyzer stats.json",
     "build": "webpack --mode production",
